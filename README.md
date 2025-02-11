@@ -1,4 +1,2 @@
 # MachineLearning_Project-1
-Simple Object Detection
-
-I will be documenting my journey with a simple object detection model. I will start with a pre-trained model and work towards training my model.
+My goal is to implement 3 ML models. 2 relatively simple models and 1 more complex model, the specifics are TBD.
